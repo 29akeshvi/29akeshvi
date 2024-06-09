@@ -1,3 +1,4 @@
+![logo](https://github.com/29akeshvi/29akeshvi/blob/main/04c03114-1b43-40c2-a02b-cb0f2778a290.jpg)
 <h1 align="center">Hi 👋, I'm Keshvi Mehta</h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
